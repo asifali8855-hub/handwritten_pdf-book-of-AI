@@ -1,5 +1,6 @@
 # Artificial Intelligence: A Modern Approach
 ## Handwritten Notes Repository
+Emergency engineer products 
 
 A curated collection of handwritten study notes and chapter summaries based on the classic textbook:
 
